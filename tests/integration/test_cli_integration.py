@@ -1,6 +1,7 @@
 """
 Integration Tests - CLI + Calculator Working Together
 """
+
 from click.testing import CliRunner
 
 
